@@ -52,13 +52,13 @@ const Hero = () => {
         </div>
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mt-12 animate-slide-up">
-          <button className="group bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white px-8 py-4 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-xl flex items-center gap-3">
+          {/* <button className="group bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white px-8 py-4 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-xl flex items-center gap-3">
             <FileText size={20} />
              <a href="../../public/CV.pdf">Voir mon CV</a>
             <div className="transform group-hover:translate-x-1 transition-transform duration-300">
               →
             </div>
-          </button>
+          </button> */}
           
           <button className="group border-2 border-gray-600 hover:border-blue-500 text-gray-300 hover:text-white px-8 py-4 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105 flex items-center gap-3">
             <Github size={20} />
