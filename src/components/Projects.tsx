@@ -34,7 +34,7 @@ const Projects = () => {
       image: portfolioImg,
       technologies: ['React', 'Tailwind'],
       github: 'https://github.com/SpideeCode/Portfolio',
-      demo: '#'
+      demo: 'https://portfolio-six-kappa-97.vercel.app/'
     },
     {
       id: 4,
